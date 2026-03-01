@@ -31,9 +31,7 @@ Hi, I’m Yash Kumar, a 2nd-year CSE student at IIIT Bhagalpur. I’m passionate
 </p>
 
 <p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=code-yashkumar&icon=5&color=6"/>
-
+  <img src="https://komarev.com/ghpvc/?username=code-yashkumar&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 <!--
 # 💻 Tech Stack:
