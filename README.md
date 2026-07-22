@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Yash Kumar, a 2nd-year CSE student at IIIT Bhagalpur. I’m passionate about full-stack development, C++ programming, and problem-solving.
+Hi, I’m Yash Kumar, a 3rd-year CSE student at IIIT Bhagalpur. I’m passionate about full-stack development, C++ programming, and problem-solving.
 
 
 ## 🌐 Socials:
